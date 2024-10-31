@@ -1,0 +1,1 @@
+import{k as o,c as t,e as c,a3 as r}from"./BTZxoaoe.js";const a={};function n(e,s){return t(),c("blockquote",null,[r(e.$slots,"default",{},void 0,!0)])}const l=o(a,[["render",n],["__scopeId","data-v-8da2ed4b"]]);export{l as default};
