@@ -1,0 +1,1 @@
+import{k as t,c as n,e as o,a3 as r}from"./C5B-LcjU.js";const a={};function c(e,s){return n(),o("tr",null,[r(e.$slots,"default",{},void 0,!0)])}const d=t(a,[["render",c],["__scopeId","data-v-234daf72"]]);export{d as default};

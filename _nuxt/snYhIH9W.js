@@ -1,1 +1,0 @@
-import{k as a,c as o,e as r,a3 as t}from"./BTZxoaoe.js";const n={};function s(e,c){return o(),r("ol",null,[t(e.$slots,"default",{},void 0,!0)])}const d=a(n,[["render",s],["__scopeId","data-v-a87b840a"]]);export{d as default};
